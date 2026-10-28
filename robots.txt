@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://legal.grupospartan.com/sitemap.xml
