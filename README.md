@@ -19,7 +19,7 @@ La app Android usa las dos últimas URLs (`PRIVACY_POLICY_URL` y `TERMS_URL` en
 
 Titular: **Spartan Tech's C.A.** (nombre comercial «Grupo Spartan»), RIF J-31399006-0, domicilio fiscal en Calle El Colegio, C.C. Makro, Nivel 1, Oficina 50, Sector Centro, Porlamar, estado Nueva Esparta, Zona Postal 6301. Jurisdicción: estado Nueva Esparta. Contacto de privacidad: aflores@spartantechsorg.com.
 
-Solo queda pendiente `REEMPLAZAR_CODIGO_SEARCH_CONSOLE` (paso 3).
+Search Console: verificado con etiqueta HTML en los tres HTML (no la quite).
 
 ## 2. Publicar (repositorio `lfs12/spartanmobile-legal`)
 
